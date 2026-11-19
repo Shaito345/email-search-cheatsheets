@@ -9,6 +9,7 @@ Search operators save hours when a mailbox holds thousands of messages. This rep
 ## Guides
 
 - [Gmail Search Operators Cheat Sheet](gmail-operators.md)
+- [Exact Phrase Search in Gmail With Quotes and Filters](gmail-exact-phrase.md)
 
 ## How to Use These Guides
 
