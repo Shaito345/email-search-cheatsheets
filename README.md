@@ -2,7 +2,7 @@
 
 Search operators save hours when a mailbox holds thousands of messages. This repo collects short cheat sheets for Gmail, Outlook and PDF search, with the exact syntax and a sample query next to every operator.
 
-*Last reviewed 21 November 2026.*
+*Last reviewed 23 November 2026.*
 
 > We are the team behind MailXaminer at SysTools. Some guides link to a related article on our site and we mark them. Nothing here is legal advice.
 
@@ -12,6 +12,7 @@ Search operators save hours when a mailbox holds thousands of messages. This rep
 - [Exact Phrase Search in Gmail With Quotes and Filters](gmail-exact-phrase.md)
 - [Outlook Search Syntax Cheat Sheet for Keywords and Fields](outlook-search-syntax.md)
 - [How to Find Attachments in an Outlook Email Thread](outlook-attachments-in-thread.md)
+- [How to Search Keywords in a PDF With Acrobat, Browsers and Command Line](pdf-keyword-search.md)
 
 ## How to Use These Guides
 
